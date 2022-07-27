@@ -9,7 +9,7 @@ Then, run DIANA+ (quant+)
 python main.py --data covtype  --alg SD-DIANA-plus --n 6
 ```
 
-We support 11 algorithms in total (? baselines and ? proposed algorithms)
+We support 11 algorithms in total:
 
 Baselines:
 - SD-DCGD: DCGD (Khirirat et al. [2018]) + standard quantization (Alistarh et al. [2017])
